@@ -1,2 +1,2 @@
-# bid-data-practice
+# big-data-practice
 use of tools and frameworks related to big data
